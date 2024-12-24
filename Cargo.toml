@@ -19,7 +19,8 @@ keywords = ["buffers", "zero-copy", "io"]
 categories = ["network-programming", "data-structures"]
 
 [features]
-default = ["std"]
+default = []
+#default = ["std"]
 std = []
 
 [dependencies]
